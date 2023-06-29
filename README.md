@@ -1,2 +1,2 @@
 # chaos
-mock api
+AI IN GO
